@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alifia Subiyono</h1>
-<h3 align="center">A curious Technology Consultant from Indonesia</h3>
+<h3 align="center">A Curious Technology Consultant from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 - 🌱 I’m currently learning **Data Science**
