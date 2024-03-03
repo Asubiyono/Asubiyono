@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asubiyono](https://github.com/Asubiyono)
 
-- 💬 Ask me about **ERP, System Architecture**
+- 💬 Ask me about **Data Analytics, Tech Consulting and System Architecture**
 
 - 📫 How to reach me **alifia.k.subiyono@gmail.com**
 
