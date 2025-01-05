@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alifia Subiyono</h1>
-<h3 align="center">A Curious Technology Consultant from Indonesia</h3>
+<h3 align="center">A Curious Technology Consultant </h3>
 
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl2bXQzdnB4dHF6b3ZtYXo2MXBiYW01dmQ0NW0yYWFjbDZlOXN5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D3RR50UwRt07PUtnPV/giphy.webp">
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asubiyono](https://github.com/Asubiyono)
 
-- 💬 Ask me about **Data Analytics, Tech Consulting and System Architecture**
+- 💬 Ask me about **Data Analytics, Cybersecurity, Tech Consulting and System Architecture**
 
 - 📫 How to reach me **alifia.k.subiyono@gmail.com**
 
