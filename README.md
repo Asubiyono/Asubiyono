@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alifia Subiyono</h1>
 <h3 align="center">A Curious Technology Consultant </h3>
 
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl2bXQzdnB4dHF6b3ZtYXo2MXBiYW01dmQ0NW0yYWFjbDZlOXN5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D3RR50UwRt07PUtnPV/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNrY2VtczhrbDV0cm8zdzN2c2p6aWM1YXY5eml1YWNrYTZpaWNleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.webp">
 
 - 🌱 I’m currently learning **Data Science**
 
