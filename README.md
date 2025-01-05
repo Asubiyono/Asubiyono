@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alifia Subiyono</h1>
 <h3 align="center">A Curious Technology Consultant from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img align="right" alt="Coding" width="400" src="![Uploading DALL·E 2025-01-05 21.33.04 - A cartoon-style illustration of a woman data scientist sitting at a desk, writing code on a laptop. She has a confident and focused expression, wearin.gif…]()
+">
 
 - 🌱 I’m currently learning **Data Science**
 
