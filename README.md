@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alifia Subiyono</h1>
 <h3 align="center">A Curious Technology Consultant from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Frobot-saying-hello&psig=AOvVaw0oVZ6UscNr3anCYthlLaiB&ust=1736170648397000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPi02eLZ3ooDFQAAAAAdAAAAABAE">
+
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 🌱 I’m currently learning **Data Science**
 
